@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "title": "Introduction to Machine Learning",
+        "category": "Technology",
+        "content": "Machine learning is a subset of artificial intelligence that enables computers to learn from data without being explicitly programmed. Algorithms like neural networks decision trees and support vector machines are widely used. Deep learning models use multiple layers to extract features automatically from raw data."
+    },
+    {
+        "id": 2,
+        "title": "Quantum Computing Fundamentals",
+        "category": "Technology",
+        "content": "Quantum computers use qubits instead of classical bits. Qubits exploit superposition to represent 0 and 1 simultaneously. Quantum entanglement allows qubits to be correlated across distances. Algorithms like Shor algorithm can factor large numbers exponentially faster than classical computers."
+    },
+    {
+        "id": 3,
+        "title": "Blockchain and Cryptocurrency",
+        "category": "Technology",
+        "content": "Blockchain is a distributed ledger technology that records transactions across multiple computers. Bitcoin was the first cryptocurrency built on blockchain. Each block contains a cryptographic hash of the previous block making the chain tamper resistant. Smart contracts are self executing programs stored on the blockchain."
+    },
+    {
+        "id": 4,
+        "title": "Cloud Computing and AWS",
+        "category": "Technology",
+        "content": "Cloud computing delivers computing services like servers storage databases networking and software over the internet. AWS Azure and Google Cloud are the leading providers. Virtual machines containers and serverless computing allow scalable deployment. Pay as you go pricing reduces infrastructure costs."
+    },
+    {
+        "id": 5,
+        "title": "Cybersecurity and Ethical Hacking",
+        "category": "Technology",
+        "content": "Cybersecurity protects systems networks and programs from digital attacks. Common threats include phishing malware ransomware and SQL injection. Ethical hackers use penetration testing to find vulnerabilities before attackers do. Firewalls encryption and multi factor authentication are key defense mechanisms."
+    },
+    {
+        "id": 6,
+        "title": "DNA and Genetic Inheritance",
+        "category": "Science",
+        "content": "DNA is the molecule that carries genetic information in all living organisms. Genes are segments of DNA that encode proteins. Inheritance follows Mendelian patterns where dominant and recessive alleles determine traits. Modern genomics uses sequencing technology to read entire genomes and discover mutations."
+    },
+    {
+        "id": 7,
+        "title": "Theory of Evolution",
+        "category": "Science",
+        "content": "Charles Darwin proposed the theory of evolution by natural selection in 1859. Organisms with favorable traits survive and reproduce more successfully passing genes to offspring. Over millions of years this process leads to new species. Fossil records genetic analysis and comparative anatomy support evolutionary theory."
+    },
+    {
+        "id": 8,
+        "title": "Climate Change and Global Warming",
+        "category": "Science",
+        "content": "Climate change refers to long term shifts in global temperatures caused primarily by greenhouse gas emissions from human activities. Carbon dioxide and methane trap heat in the atmosphere creating a greenhouse effect. Rising sea levels extreme weather events and melting polar ice caps are measurable consequences."
+    },
+    {
+        "id": 9,
+        "title": "The Solar System and Planets",
+        "category": "Science",
+        "content": "The solar system consists of the Sun and eight planets Mercury Venus Earth Mars Jupiter Saturn Uranus and Neptune. Jupiter is the largest planet with a giant storm called the Great Red Spot. Mars has the tallest volcano Olympus Mons. NASA and SpaceX are planning crewed missions to Mars."
+    },
+    {
+        "id": 10,
+        "title": "Photosynthesis and Plant Biology",
+        "category": "Science",
+        "content": "Photosynthesis is the process by which plants use sunlight water and carbon dioxide to produce glucose and oxygen. Chlorophyll in plant cells absorbs light energy. The process occurs in two stages the light dependent reactions and the Calvin cycle. Plants form the base of most food chains on Earth."
+    },
+    {
+        "id": 11,
+        "title": "The French Revolution",
+        "category": "History",
+        "content": "The French Revolution began in 1789 and transformed France from a monarchy to a republic. Key events include the storming of the Bastille the Declaration of the Rights of Man and the Reign of Terror. Napoleon Bonaparte later rose to power and reshaped European politics."
+    },
+    {
+        "id": 12,
+        "title": "World War II Overview",
+        "category": "History",
+        "content": "World War II lasted from 1939 to 1945 and involved most world nations. It began with Germany invasion of Poland under Adolf Hitler and the Nazi regime. The war resulted in over 70 million casualties including the Holocaust. It ended with Allied victory and the formation of the United Nations."
+    },
+    {
+        "id": 13,
+        "title": "The Industrial Revolution",
+        "category": "History",
+        "content": "The Industrial Revolution began in Britain in the late 18th century and transformed manufacturing from hand production to machine based processes. Steam engines powered factories and railways. Urbanization increased rapidly as people moved from farms to cities for factory work."
+    },
+    {
+        "id": 14,
+        "title": "Ancient Egyptian Civilization",
+        "category": "History",
+        "content": "Ancient Egypt was one of the worlds earliest civilizations lasting over 3000 years. The pharaohs ruled as god kings and commissioned massive structures like the pyramids of Giza and the Sphinx. Hieroglyphics were the writing system used on temple walls and papyrus. The Nile River was the lifeline of Egyptian agriculture."
+    },
+    {
+        "id": 15,
+        "title": "The Cold War Era",
+        "category": "History",
+        "content": "The Cold War was geopolitical tension between the United States and the Soviet Union from 1947 to 1991. Both superpowers developed nuclear arsenals in mutually assured destruction strategy. The Space Race saw both nations compete to reach the Moon. The fall of the Berlin Wall in 1989 marked the end."
+    },
+    {
+        "id": 16,
+        "title": "How Vaccines Work",
+        "category": "Health",
+        "content": "Vaccines stimulate the immune system to produce antibodies against a pathogen without causing the disease. They contain weakened or inactivated antigens that train the body defenses. mRNA vaccines instruct cells to produce a protein that triggers immunity. Herd immunity occurs when enough population is vaccinated."
+    },
+    {
+        "id": 17,
+        "title": "Nutrition and Healthy Eating",
+        "category": "Health",
+        "content": "A balanced diet includes carbohydrates proteins and healthy fats along with vitamins and minerals. Fruits and vegetables provide antioxidants that protect cells from damage. Processed foods high in sugar and saturated fats increase risk of diabetes and heart disease. Hydration is essential for metabolism."
+    },
+    {
+        "id": 18,
+        "title": "Mental Health and Anxiety",
+        "category": "Health",
+        "content": "Mental health includes emotional psychological and social wellbeing. Anxiety disorders are the most common mental health condition affecting millions worldwide. Cognitive behavioral therapy CBT is one of the most effective treatments. Regular exercise adequate sleep and mindfulness practices improve mental health outcomes."
+    },
+    {
+        "id": 19,
+        "title": "Supply Chain Management",
+        "category": "Business",
+        "content": "Supply chain management involves coordinating the flow of goods services information and finances from supplier to customer. Just in time inventory reduces storage costs but increases vulnerability to disruptions. The COVID 19 pandemic exposed fragility in global supply chains. AI and IoT sensors are transforming logistics."
+    },
+    {
+        "id": 20,
+        "title": "Stock Market and Investing",
+        "category": "Business",
+        "content": "The stock market is a marketplace where buyers and sellers trade shares of publicly listed companies. Key indices like the S&P 500 Dow Jones and NASDAQ track market performance. Fundamental analysis evaluates company financial health while technical analysis studies price charts. Diversification reduces investment risk."
+    }
+]
